@@ -1,7 +1,7 @@
 🔧 Designed and implemented a data pipeline architecture leveraging Azure Data Factory (ADF) and Azure Data Lake Storage (ADLS).
 ## 📌 Solution Architecture
 
-![Solution Architecture](AZUREARCHITECTURE.jnpg)
+![Solution Architecture](AZUREARCHITECTURE.jnpg.jpg)
 
 ⚙️ Key Highlights:
 
